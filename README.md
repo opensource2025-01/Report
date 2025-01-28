@@ -12,25 +12,15 @@
 
 <div align="center">
 
-Ciclo: 2024 - 0 2
-
-Curso: Desarrollo de Aplicaciones Web
-
-Sección: SI92
-
-Profesor: Naldo Reupo-Musayon Gastulo
-
 “Informe de Trabajo Final”
 
-Startup: TechTitans
+Startup: Rank & Dine Crew
 
-Producto: FinanceGuard
+Producto: FoodView
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
-|      Iparraguirre Rueda, Cristian Luis       | U202113111 |
-|      Santillan Alvarado, Melina Liz          | U202216058 |
 
 Noviembre 2024
 
