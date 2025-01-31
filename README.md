@@ -241,11 +241,11 @@ Con una interfaz intuitiva y una comunidad de foodies compartiendo sus experienc
 
 **Logotipo del servicio:**
 
-<p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
+<p align="left"><img src="images/logo-servicio.PNG" alt="Rank & Dine Crew Logo" width="60%" height="40%"></p>
 
 **Logotipo del producto:**
 
-<p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
+<p align="left"><img src="images/logo-producto.PNG" alt="FoodView Logo" width="60%" height="40%"></p>
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
