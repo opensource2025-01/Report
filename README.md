@@ -54,8 +54,6 @@ Noviembre 2024
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
-  	  <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Santillan Alvarado, Melina Liz</li> 
         </ul>
       </td>
       <td>
@@ -67,70 +65,6 @@ Noviembre 2024
           <li>Capítulo IV: Product Design</li>
           <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1</li>
           <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-        </ul>
-      </td>
-  </tr>
-	  <tr>
-      <td><strong>Parcial</strong></td>
-      <td>Miércoles 25 de Setiembre</td>
-      <td>
-        <ul>
-          <li>Ramos Carpio, Karen</li>
-  	  <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Santillan Alvarado, Melina Liz</li> 
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo V: Product Implementation, Validation & Deployment hasta</li>
-          <li>Avance del Capítulo V, incuido el desarrollo y descripcion del Sprint 2</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-	  <li>Revision y mejora de observaciones</li>
-        </ul>
-      </td>
-  </tr>
-	  <tr>
-      <td><strong>TB2</strong></td>
-      <td>Sábado 02 de Noviembre</td>
-      <td>
-        <ul>
-          <li>Ramos Carpio, Karen</li>
-  	  <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Santillan Alvarado, Melina Liz</li> 
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo V: Product Implementation, Validation & Deployment</li>
-          <li>Avance del Capítulo V, incuido el desarrollo de Validation Interviews. y descripcion del Sprint 3</li>
-          <li>Avance del Capítulo V, incuido Validation Interviews.</li>
-	  <li>Evaluaciones según heurísticas.</li>
-	  <li>Avance de Video About-the-Product.</li>
-	  <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-	  <li>Revision y mejora de observaciones</li>
-        </ul>
-      </td>
-  </tr>
-  <tr>
-      <td><strong>Final</strong></td>
-      <td>Lunes 18 de Noviembre</td>
-      <td>
-        <ul>
-          <li>Ramos Carpio, Karen</li>
-  	  <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Santillan Alvarado, Melina Liz</li> 
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Informe versión final y evidencias de la conclusión del ciclo de vida y el proyecto con todos los Capítulos</li>
-          <li>Versión corregida y mejorada de artefactos previamente presentados</li>
-          <li>Despliegue de la versión final de los productos digitales</li>
-          <li>Capítulo V: Sección 5.2.4. Sprint 4.</li>
-          <li>Versión final de Conclusiones, Bibliografía y Anexos</li>
         </ul>
       </td>
   </tr>
@@ -162,78 +96,13 @@ Noviembre 2024
     </tr>
   </thead>
     <tbody>
-    <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-      <td style="border-right: 1px solid black;">
-        <ul>
-          <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen: Se trabajo en todo el capitulo 3, detallando el To-Be Scenario Mapping de cada unpo de nuestros segmentos objetivo, se trabajo los User Stories de cada uno de nuestros processo detallando tambien el landing page, 	 impact mapping y prodcut backlog con el apoyo de mi equipo absolviendo cualquierduda de concepto de nuestro startup.</li>
-          <li>Iparraguirre Rueda, Cristian Luis: Contribuyó con el desarrollo del capítulo 4 para el avance de esta primera entrega, revisando lo anteriormente desarrollado por mis compañeros.</li>
-	  <li>Santillan Alvarado, Melina Liz: Contribuyo en el desarrollo del capítulo 4, en el cual se realizó el diseño del landing page y del web application. Asimismo, colaboro en la elaboración de "Nosotros" del landing page.</li>
-        </ul>
-	<ul>
-          <p><strong>TP</strong></p>
-          <li>Ramos Carpio, Karen: En la presentación del proyecto se explica a detalle el desarrollo del segundo sprint y la organización del código del proyecto. Se incluye el proceso de deployment y los insights de la colaboración del equipo durante el sprint. </li>
-          <li>Iparraguirre Rueda, Cristian Luis: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page</li>
-	  <li>Santillan Alvarado, Melina Liz: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. </li>
-        </ul>
-	      <ul>
-          <p><strong>TB2</strong></p>
-          <li>Ramos Carpio, Karen:  Gracias a las entrevistas de validación, fue posible analizar las historias de usuario técnicas, dado que se obtuvo información acerca de los puntos que resultan ser los más relevantes para el usuario final y la forma en la cual usará la aplicación. </li>
-          <li>Iparraguirre Rueda, Cristian Luis: Realizo el sprint backlog del sprint 3, ademas de organizar sprint en trello para la documentacion de avances y organizacion de entregables.</li>
-	  <li>Santillan Alvarado, Melina Liz: Realicé entrevistas de validación para presentar el avance del proyecto al público objetivo para así lograr una retroalimentación activa y poder priorizar los requisitos según lo indicado por el cliente. .</li>
-        </ul>
-	      <ul>
-          <p><strong>Final</strong></p>
-          <li>Ramos Carpio, Karen: En este entregable final, se priorizó el funcionamiento correcto de la aplicación y una buena experiencia para el usuario. Se corrigieron bugs y se realizaron modificaciones de nomenclatura para mantener un posible desarrollo futuro más organizado.</li>
-          <li>Iparraguirre Rueda, Cristian Luis: Se realizó la presentación final dónde se presentó todo lo logrado a lo
- largo del curso mediante el proyecto de forma oral al docente y compañeros. Además se grabó un video de exposición correspondiente
- con el Sprint 4. Y se mantuvo una comunicación activa mediante reuniones en el equipo de trabajo. </li>
-	  <li>Santillan Alvarado, Melina Liz: Reuní al equipo en reuniones diarias para mantenernos actualizados
- con respecto al desarrollo de los objetivos propuestos.</li>
-        </ul>
-      </td>
-      <td><strong></strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y culminacion del trabajo final, trabajando en equipo y siendo participe activo de cada una de nuestras secciones asignadas</p></td>
-      <br>
-     </tr>
-      <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
-      <td style="border-right: 1px solid black;">
-        <ul>
-          <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen: Se trabajo en todo el capitulo 3, detallando el To-Be Scenario Mapping de cada unpo de nuestros segmentos objetivo, se trabajo los User Stories de cada uno de nuestros processo detallando tambien el landing page, 	 impact mapping y prodcut backlog con el apoyo de mi equipo absolviendo cualquierduda de concepto de nuestro startup.</li>
-          <li>Iparraguirre Rueda, Cristian Luis: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
-	 <li>Santillan Alvarado, Melina Liz: Contribuí en el capítulo 4 y para su desarrollo tuve que revisar los otros capítulos que fueron realizados por mis compañeros. Además, colabore con el desarrollo de "Nosotros" del landing page.</li>
-        </ul>
-	      <ul>
-          <p><strong>TP</strong></p>
-          <li>Ramos Carpio, Karen: Arreglo los user stories correspondientes al landing page, y los incluyo en el Trello. Asimismo adapto el diseño de la landing page en figma de forma que corresponda con las mejoras realizadas en la landing page.</li>
-          <li>Iparraguirre Rueda, Cristian Luis: Se organizaron reuniones con el equipo de trabajo para conocer los avances constantes durante el sprint, además de realizar un video de presentación con lo realizado durante el sprint 2. </li>
-	 <li>Santillan Alvarado, Melina Liz: Organicé diversas reuniones con los integrantes del equipo para avanzar de manera conjunta el proyecto, apoyarnos para implementar una funcionalidad en particular y para anunciar las metas a cumplir y los para la entrega del proyecto. De la misma manera, se comunicaron los resultados
- obtenidos a los stakeholders, quienes a través de una serie de entrevistas demostraron su satisfacción con el programa.</li>
-        </ul>
-	      <ul>
-          <p><strong>TB2</strong></p>
-          <li>Ramos Carpio, Karen:  Contribui con la elaboracion del back end y desarrollo del front end de manera que se pueda realizar un avance significativo y bajo los 	criterios establecidos, manteniendo en cuenta los deseos del cliente.</li>
-          <li>Iparraguirre  Rueda, Cristian Luis: Se encargo de desarrolloar la sección de sign in, sign up, y sign out.Asismo que estas fueran funcionales </li>
-	 <li>Santillan Alvarado, Melina Liz: Realizo el sprint backlog del sprint 3, ademas de organizar sprint en trello para la documentacion de avances y organizacion de entregables.</li>
-        </ul>
-	      <ul>
-          <p><strong>Final</strong></p>
-          <li>Ramos Carpio, Karen: Se entregaron los resultados finales del trabajo y las conclusiones obtenidas de su realizacion. Se demostró el contenido que pudo realizarse durante el transcurso del ciclo y se especificaron los puntos de mejora en la aplicación.</li>
-          <li>Iparraguirre Rueda, Cristian Luis: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
-	 <li>Santillan Alvarado, Melina Liz: Durante la elaboración del proyecto se tuvo que comunicar de forma activa al público objetivo el desarrollo del mismo para así lograr mantenernos en línea con lo solicitado. Además como grupo fue necesario organizarse adecuadamente mediante reuniones y uso de diversas plataformas, tanto para la comunicación como para la gestión del código, para lo cuál se hizo uso de Github.</li>
-        </ul>
-      </td>
-	 <td><strong></strong><p align="justify">Se logró terminar como equipo la entrega final, asi mismo conocimos nuestras fallas y nuestros valores agregados, llegando a nuestros objetivos y cumpliendo con nuestras tareas asignadas.</p>
-      <br>
-     </tr>
+   
   </tbody>
 </table>
 
 # **Project Report Online**
 
-URL Project Report (Github): https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report
+URL Project Report (Github):
 
 ### [Capítulo I: Introducción]()
 - [1.1. Startup Profile]()
@@ -362,19 +231,19 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 ### 1.1.1 Descripción de la Startup
 
-*TechTitans* presenta *FinanceGuard*, una innovadora plataforma diseñada para gestionar tanto las finanzas personales como empresariales. Con el objetivo principal de simplificar la administración del dinero y mejorar la organización financiera de sus usuarios, FinanceGuard ofrece una experiencia intuitiva y eficiente.
+*FoodView* es una aplicación innovadora que redefine la forma en que las personas eligen qué comer. A diferencia de otras plataformas de reseñas generales, nuestro enfoque se centra en la calificación de platos individuales, permitiendo a los usuarios descubrir qué comer con base en experiencias reales.
+Nuestro sistema único de ranking por colores (verde, amarillo, rojo, etc.) simplifica la evaluación de cada establecimiento en función de su calidad y precio, brindando una referencia visual clara y rápida. Además, la aplicación cuenta con filtros personalizables, permitiendo a los usuarios encontrar opciones según su presupuesto, preferencias culinarias y ubicación.
+Con una interfaz intuitiva y una comunidad de foodies compartiendo sus experiencias, *FoodView* se convierte en la brújula gastronómica definitiva, ayudando a los comensales a tomar mejores decisiones al momento de elegir dónde y qué comer.
 
-La plataforma permite a los usuarios crear grupos para gestionar y compartir gastos de manera colaborativa. Dentro de estos grupos, se pueden registrar gastos, especificar quién pagó y cuánto, así como distribuir los costos entre los participantes. Además, FinanceGuard calcula automáticamente las deudas y saldos, proporcionando una visión clara de quién debe a quién, lo que resulta especialmente útil para compañeros de cuarto, parejas, amigos o familiares que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios y compras conjuntas.
+**Misión:** Facilitar a los comensales la elección de los mejores platos a través de un sistema de calificación visual basado en colores, brindando información clara, confiable y colaborativa. Nos comprometemos a mejorar la experiencia gastronómica al conectar a los usuarios con reseñas auténticas y detalladas, ayudando a restaurantes y consumidores a ofrecer y disfrutar mejores opciones culinarias.
 
-Más allá de las finanzas personales, FinanceGuard ofrece herramientas avanzadas para la gestión financiera empresarial. Entre estas, se incluyen la conciliación de cuentas y la generación de reportes contables detallados, facilitando el seguimiento y optimización de los recursos económicos de las empresas.
-
-FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a tomar el control de su bienestar financiero, brindándoles las herramientas necesarias para seguir sus gastos, establecer metas financieras y ajustar sus presupuestos en función de sus objetivos económicos. Esta solución integral no solo mejora la transparencia financiera, sino que también promueve una mayor estabilidad económica, ayudando a los usuarios a alcanzar sus metas con confianza.
-
-**Misión:** En FinanceGuard, nuestra misión es capacitar a individuos y empresas para que tomen las riendas de su bienestar financiero mediante una administración precisa, accesible y fácil de usar. Nos comprometemos a ofrecer soluciones innovadoras que simplifiquen el monitoreo, la planificación y la optimización de los recursos financieros, con el propósito de fomentar una mayor seguridad económica y ayudar a nuestros usuarios a cumplir sus objetivos financieros con certeza.
-
-**Visión:** Aspiramos a convertirnos en la plataforma de referencia en la gestión financiera personal y empresarial, reconocida por nuestra capacidad de revolucionar la manera en que las personas y organizaciones administran sus finanzas. Nuestro objetivo es construir un futuro donde la claridad financiera y la educación económica estén al alcance de todos, contribuyendo al desarrollo económico y al bienestar integral de nuestros usuarios.
+**Visión:** Ser la plataforma líder en recomendaciones gastronómicas, revolucionando la forma en que las personas descubren y eligen qué comer mediante un sistema visual intuitivo y confiable. Aspiramos a construir una comunidad global donde la calidad y el valor de cada plato sean reconocidos de manera justa y accesible para todos.
 
 **Logotipo del servicio:**
+
+<p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
+
+**Logotipo del producto:**
 
 <p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
 
