@@ -270,19 +270,37 @@ Para identificar el contexto en el que se situa FinanceGuard, utilizaremos la t�
 #### 1.2.1.1. Las 5 W's:
 
 - **What (Qué):**<br>
-FinanceGuard es una plataforma digital diseñada para simplificar la gestión de finanzas tanto personales como empresariales. Permite a los usuarios organizar y compartir gastos, gestionar deudas, y seguir objetivos financieros. Además, ofrece herramientas avanzadas para la conciliación de cuentas y la generación de reportes contables.
-
-- **Why (Por qué):**<br>
-Existe una necesidad creciente de herramientas que faciliten la gestión financiera, especialmente en contextos de colaboración como grupos de amigos, compañeros de cuarto, parejas, y empresas. FinanceGuard responde a esta necesidad ofreciendo una solución que promueve la transparencia, la organización y la estabilidad financiera.
-
-- **Who (Quién):**<br>
-El producto está dirigido a individuos que comparten gastos con otros, como amigos, compañeros de cuarto, parejas, y familiares, así como a pequeñas y medianas empresas que requieren herramientas eficientes para la gestión contable y financiera.
-
-- **Where (Dónde):**<br>
-FinanceGuard se implementa como una aplicación móvil y web, accesible desde cualquier lugar con conexión a internet, lo que permite a los usuarios gestionar sus finanzas en tiempo real, sin importar su ubicación.
+Los consumidores enfrentan dificultades al elegir restaurantes y platos debido a la falta de información clara y detallada. Aunque existen plataformas de reseñas como Yelp o TripAdvisor, estas suelen centrarse en opiniones generales sobre el restaurante en lugar de proporcionar valoraciones específicas de cada plato. Además, la información sobre precios puede ser confusa o poco accesible, dificultando la toma de decisiones basada en presupuesto.
+FooView busca solucionar este problema ofreciendo una plataforma donde los usuarios puedan consultar reseñas detalladas de platos individuales, organizadas mediante un sistema de colores para indicar calidad y precio, facilitando así la elección del mejor lugar y plato según sus preferencias y presupuesto.
 
 - **When (Cuándo):**<br>
-El uso de FinanceGuard es continuo, permitiendo a los usuarios realizar un seguimiento constante de sus finanzas, tanto en el día a día como a largo plazo, ajustándose a sus necesidades en cualquier momento.
+El problema surge cada vez que una persona desea elegir un restaurante o un plato específico sin información clara sobre la calidad y el precio. Esto ocurre en diversas situaciones, como planear una salida a comer y no tener referencias confiables sobre qué restaurante ofrece la mejor relación calidad-precio, por otro lado cuando se visita una nueva ciudad o barrio y no se conoce qué opciones gastronómicas son recomendadas o tal vez cuando el presupuesto es un factor clave y se necesita información rápida sobre los precios antes de elegir un lugar.
+
+- **Where (Dónde):**<br>
+Este problema ocurre en múltiples contextos y ubicaciones, tanto a nivel local como global, afectando a consumidores en diversas situaciones:
+En ciudades grandes con una amplia oferta gastronómica, en zonas turísticas, en aplicaciones de reseñas generales, donde la información sobre los platos específicos es limitada y las reseñas suelen enfocarse en la experiencia general del restaurante, en restaurantes con menús extensos, donde los clientes no pueden saber qué platos son los mejor valorados sin depender de recomendaciones del personal. FooView soluciona este problema al proporcionar una plataforma accesible desde cualquier ubicación, permitiendo a los usuarios encontrar información detallada sobre restaurantes y sus platos en cualquier parte del mundo.
+
+- **Who (Quién):**<br>
+El problema afecta a diferentes tipos de usuarios y actores dentro del ecosistema gastronómico:
+1. Consumidores y comensales
+Personas indecisas que buscan opciones claras y bien evaluadas antes de elegir qué comer.
+Turistas que no conocen la oferta gastronómica local y necesitan recomendaciones confiables.
+Foodies y amantes de la gastronomía que desean descubrir nuevos platos y experiencias culinarias.
+Personas con restricciones dietéticas (vegetarianos, veganos, alérgicos, etc.) que requieren información detallada sobre los ingredientes de cada plato.
+Usuarios con presupuestos ajustados que necesitan comparar precios fácilmente antes de decidirse por un restaurante.
+
+2. Restaurantes y negocios gastronómicos
+Dueños y administradores de restaurantes, que buscan mejorar la visibilidad de su menú y destacar sus platos más populares.
+Pequeños y medianos restaurantes, que tienen dificultades para competir con grandes cadenas y necesitan una plataforma para atraer clientes.
+Restaurantes con menús innovadores, que desean que sus platos únicos sean valorados y recomendados por los clientes.
+3. Plataformas digitales y creadores de contenido
+Influencers y críticos gastronómicos, que pueden utilizar la aplicación para compartir sus experiencias y guiar a sus seguidores.
+Empresas de delivery y reservas, que pueden beneficiarse de integrar la información de FooView para mejorar sus servicios.
+
+- **Why (Por qué):**<br>
+Elegir dónde comer puede ser una experiencia frustrante debido a la falta de información precisa y detallada sobre la calidad y precio de los platos en los restaurantes. Aunque existen aplicaciones de reseñas, la mayoría no permite evaluar cada plato de manera individual, lo que dificulta a los usuarios encontrar opciones que se ajusten a sus gustos y presupuesto.
+Además, la falta de un sistema visual intuitivo para clasificar los precios y la calidad de los platos genera incertidumbre en los consumidores, quienes muchas veces terminan eligiendo opciones que no cumplen sus expectativas o que exceden su presupuesto. Esto no solo impacta la experiencia del cliente, sino que también afecta a los restaurantes que ofrecen platos destacados pero que no tienen visibilidad suficiente.
+FooView busca resolver esta problemática proporcionando una plataforma donde los usuarios puedan acceder a reseñas específicas de cada plato, categorizadas mediante un sistema de colores fácil de entender. Esto permitirá mejorar la toma de decisiones al momento de elegir qué y dónde comer, optimizando la experiencia del usuario y brindando mayor visibilidad a los restaurantes que ofrecen platos de alta calidad a precios accesibles.
 
 #### 1.2.1.2. Las 2 H's:
 
