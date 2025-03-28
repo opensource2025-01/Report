@@ -260,18 +260,7 @@ Con una interfaz intuitiva y una comunidad de foodies compartiendo sus experienc
 		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
-  <TR>
-		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto.</td>
-		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
-	</TR>
-  <TR>
-		<td style="text-align: center" align="center"><p align="center"> Melina Liz Santillan Alvarado - U202216058  <img src="images/fotoMelina.jpg" alt="" width="45%"> </p></td> 
-		<td style="text-align: center" align="center">Me considero una persona responsable e innovadora, además realizo un buen trabajo en equipo. Por otro lado, voy a ayudar en todo lo que pueda en el proyecto para que este sea un éxito.</td>
-		<td style="text-align: center" align="center">Tengo conocimientos en C++, HTML y CSS. Además, tengo un buen manejo del inglés. Soy una persona que le gusta enriquecer sus aprendizajes.</td>
-	</TR>
 </TABLE>
-
 
 
 ## 1.2 Solution Profile
